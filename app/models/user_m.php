@@ -5,8 +5,8 @@
  * 基于Codeigniter的简单高效轻便的博客系统
  *
  * @package		archnote
- * @author		bstaint <bstaint@gmail.com>
- * @copyright	Copyright (c) 2013, bstaint.net.
+ * @author		bstaint <bstaint  AT gmail DOT com>
+ * @copyright	Copyright (c) 2013
  * @license		GNU General Public License 2.0
  * @link		http://github.com/bstaint/archnote/
  * @version		1.0.0
